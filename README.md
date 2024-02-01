@@ -1,4 +1,4 @@
-# Week 3 Practical 2 - Grid & Design
+# Week 3 Practical 6 - Grid & Design
 
 In this practical you will gain hands on experience with the CSS grid module in combination with flexbox and media queries.
 
