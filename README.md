@@ -46,7 +46,7 @@ In VS Code, open the starter code folder called “stage2” and run index.html 
 
 Similar to stage 1, you'll write CSS to recreate the layouts shown below but this time you will use the CSS Grid module. The HTML files and global CSS (main.css) is provided in the starter code. 
 
-index.html shows the default layout with the basic styling provided by main.css. The other HTML files are identical except for links to additional stylesheets. **You should only edit the stylesheet associated with exercise and only use grid (no flexbox, no inline-block, no float, no position etc).**
+index.html shows the default layout with the basic styling provided by main.css. The other HTML files are identical except for links to additional stylesheets. **You should only edit the stylesheet associated with each exercise and only use grid (no flexbox, no inline-block, no float, no position etc).**
 
 All of these exercises are focused on putting elements in specific places in a grid so you should only need to use properties we covered in class. Don't worry about making the proportions of each element match those in the screenshots--proportions will vary depending on your browser window size. You may find this reference handy:[https://css-tricks.com/snippets/css/complete-guide-grid/ ](https://css-tricks.com/snippets/css/complete-guide-grid/ )
 
