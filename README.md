@@ -8,7 +8,7 @@ In VS Code, open the starter code folder called “stage1” and run index.html 
 
 For each of the exercises in this stage, you will write flexbox CSS to recreate the layouts shown below. The HTML files and global CSS (main.css) is provided in the starter code. 
 
-index.html shows the default layout with the basic styling provided by main.css. The other HTML files are identical except for links to additional stylesheets. **You should only edit the stylesheet associated with exercise and only use flexbox (no inline-block, no float, no position etc).**
+index.html shows the default layout with the basic styling provided by main.css. The other HTML files are identical except for links to additional stylesheets. **You should only edit the stylesheet associated with each exercise and only use flexbox (no inline-block, no float, no position etc).**
 
 These exercises go beyond what was covered in class. You can find all the information you need here:[https://css-tricks.com/snippets/css/a-guide-to-flexbox/ ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ )
 
